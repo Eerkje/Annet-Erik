@@ -25,6 +25,3 @@ site:
   actions:
     - title: report issue
       url: https://eerkje.github.io/Annet-Erik/ # change this URL to your repository
-
-execute:
-  execute_notebooks: "auto"
